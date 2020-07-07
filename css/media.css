@@ -1,0 +1,57 @@
+@media screen and (max-width: 1199px) {
+    .footer__btn {
+        right: 20px;
+    }
+
+    .registration__button {
+        font-size: 11px;
+        padding: 14px 80px;
+    }
+
+    .design__macbook__img {
+        position: relative;
+        right: 120px;
+    }
+}
+
+@media screen and (max-width: 1160px) {
+    .design__macbook__img {
+        right: 40px;
+        width: 540px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .browser__img {
+        position: relative;
+        right: 60px;
+    }
+
+    .clients__icon {
+        padding: 0 0 20px;
+    }
+
+    .registration__button {
+        font-size: 14px;
+        padding: 14px 88px;
+        margin-top: 50px;
+    }
+
+    .registration__input {
+        margin-bottom: 10px;
+    }
+
+    .footer {
+        margin-top: -36px;
+    }
+
+    .footer__btn {
+        position: relative;
+    }
+
+    .design__macbook__img {
+        right: -50px;
+    }
+
+
+}
